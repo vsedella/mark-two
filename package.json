@@ -1,0 +1,23 @@
+{
+  "name": "mark-two",
+  "version": "1.0.0",
+  "description": "mark two",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vsedella/mark-two.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vsedella/mark-two/issues"
+  },
+  "homepage": "https://github.com/vsedella/mark-two#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "readline-sync": "^1.4.10"
+  }
+}
